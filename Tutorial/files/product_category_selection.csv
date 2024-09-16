@@ -1,0 +1,16 @@
+﻿Level,Product category,Colour_HEX,Colour
+1,"Total, all product categories",#7F7F7F,grey
+2,Construction materials,#00A1C0,turqoise
+2,Electrical and electronic equipment,#FA961E,orange
+3,Electronics,#FEE9A2,light-yellow
+3,Major appliances,#FEE9A2,light-yellow
+3,Other electrical and electronic equipment,#FEE9A2,light-yellow
+2,Packaging,#0BAC43,green
+3,Bottles,#47F383,light-green
+3,Film,#47F383,light-green
+3,Non-bottle rigid,#47F383,light-green
+3,Other packaging products,#47F383,light-green
+2,Agriculture film,#B91E32,red
+2,Textiles,#005379,darkblue
+2,Vehicles,#FDDA64,yellow
+2,Other products,#40E0FF,light-turqoise
