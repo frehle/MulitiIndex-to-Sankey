@@ -1,0 +1,21 @@
+Resin,Resin_Selection,Colour_HEX,Colour
+"Total, all resins","0_Total, all resins",#7F7F7F,grey
+Polyethylene terephthalate (PET) resins,1_PET,#00A1C0,turqoise
+Other thermoplastic polyester resins,7_Other,#40E0FF,light-turqoise
+Low-density polyethylene resins,"4_LDPE, LLDPE",#B91E32,red
+Linear low-density polyethylene resins,"4_LDPE, LLDPE",#B91E32,red
+High-density polyethylene resins,2_HDPE,#FA961E,orange
+Other polyethylene resins,7_Other,#40E0FF,light-turqoise
+Polystyrene resins,6_PS,#FDDA64,yellow
+Acrylonitrile-butadiene-styrene resins,7_Other,#40E0FF,light-turqoise
+Polyvinyl chloride resins,3_PVC,#0BAC43,green
+Polypropylene resins,5_PP,#005379,darkblue
+Thermoplastic polyurethane resins,7_Other,#40E0FF,light-turqoise
+Polyamide (nylon) resins,7_Other,#40E0FF,light-turqoise
+All other thermoplastic resins,7_Other,#40E0FF,light-turqoise
+Phenolic resins,7_Other,#40E0FF,light-turqoise
+Urea formaldehyde resins,7_Other,#40E0FF,light-turqoise
+All other formaldehyde based resins,7_Other,#40E0FF,light-turqoise
+Unsaturated polyester (thermosetting) resins,7_Other,#40E0FF,light-turqoise
+Thermosetting polyurethane resins,7_Other,#40E0FF,light-turqoise
+Other thermosetting resins,7_Other,#40E0FF,light-turqoise

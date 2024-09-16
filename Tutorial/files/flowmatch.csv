@@ -1,0 +1,19 @@
+﻿Count,Variable,From,To,Comment
+1,Plastic in domestically produced products,CA domestic production,CA consumption,
+2,Net trade (imports less exports) of newly produced products,Net trade of new products,CA consumption,
+3,Plastic in products produced for Canadian consumption,NaN,NaN,sum of domestic and imported new products (use as check?)
+4,Net stock of plastic in products that remain in use at the end of each year,CA consumption,Net in-use stock addition,
+5,Total discarded plastic in products,CA consumption,Total discarded plastics,transformation of status: product into waste
+6,Plastic leaked permanently into the environment,Total discarded plastics,Leak into environment,
+7,Collected plastic sent directly for disposal or diversion,Total discarded plastics,Collection,
+8,Diverted plastic waste and scrap sent for material recovery,Collection,Material recovery,
+9,Disposed plastic waste and scrap not diverted for material recovery,Collection,Total disposed plastics,
+10,Sorted and baled plastic waste and scrap sent for further processing,Material recovery,Recycling,
+11,Residual plastic waste and scrap sent for disposal by primary processors,Material recovery,Total disposed plastics,
+12,Net trade (imports less exports) of sorted and baled plastic waste and scrap,Material recovery,Net trade baled plastic,
+13,Recycled plastic pellets and flakes ready for use in production of new products,Recycling,Secondary feedstock,
+14,Residual plastic waste and scrap sent for disposal by final processors,Recycling,Total disposed plastics,
+15,Total disposed plastic waste and scrap,NaN,NaN,sum of total disposed plastics (use as check?)
+16,Disposed plastic waste and scrap sent to landfill or incinerated without energy recovery,Total disposed plastics,Landfill or incineration,
+17,Disposed plastic waste and scrap sent for incineration or gasification with energy recovery,Total disposed plastics,Incineration (WtE) or gasification,
+18,Net trade (imports less exports) of disposed plastic waste and scrap,Total disposed plastics,Net trade disposed plastics,
